@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+xlrd
+openpyxl
+lxml
+sklearn
+streamlit_folium
+fpdf
+seaborn
+matplotlib
+pypdf2
+pdfplumber
